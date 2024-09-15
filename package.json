@@ -7,15 +7,31 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare":"",
+    "prepare": "",
     "vercel-build": "npm run prepare && next build"
   },
   "dependencies": {
+    "@danieloi/pro-duotone-svg-icons": "^6.2.1",
+    "@danieloi/pro-light-svg-icons": "^6.2.1",
+    "@danieloi/pro-regular-svg-icons": "^6.2.1",
+    "@danieloi/pro-thin-svg-icons": "^6.2.1",
+    "@fontsource/fira-code": "^5.1.0",
+    "@fontsource/inter": "^5.1.0",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-brands-svg-icons": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@vercel/analytics": "^1.3.1",
+    "devicon": "^2.16.0",
+    "framer-motion": "^11.5.4",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
+    "react-type-animation": "^3.2.0",
+    "sass": "^1.78.0",
     "tailwind-scrollbar": "^3.1.0",
-    "tailwind-scrollbar-hide": "^1.1.7"
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "the-new-css-reset": "^1.11.3"
   },
   "devDependencies": {
     "@types/node": "^20",
