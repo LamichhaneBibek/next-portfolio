@@ -1,0 +1,52 @@
+{
+  "acknowledgments": [
+    {
+      "person": "Binit Lamichhane - Frontend Engineer",
+      "link": "https://binitlamichhane.com.np/",
+      "note": "Made him use Neovim"
+    },
+    {
+      "person": "Vercel - Platform",
+      "link": "https://vercel.com/docs",
+      "note": "Host your own Next.js project for free!"
+    },
+    {
+      "person": "Neovim",
+      "link": "https://neovim.io/",
+      "note": "Helped me steal this template, blazingly fast"
+    }
+  ],
+
+  "links": [
+    {
+      "person": "CodeCraft",
+      "link": "https://next-blog-yrc5.vercel.app/",
+      "note": "Latest Web Dev"
+    },
+    {
+      "person": "TreeLeaf Technologies",
+      "link": "https://treeleaf.ai/",
+      "note": "Where I work, didn't do the website"
+    },
+    {
+      "person": "OpenSource Nepal",
+      "link": "https://github.com/OpenSource-np",
+      "note": "Empowering Innovation Through Collaboration"
+    }
+  ],
+
+  "social": [
+    {
+      "url": "https://lamichhanebibek.com.np",
+      "icon": "dev"
+    },
+    {
+      "url": "https://www.linkedin.com/in/lamichhanebibek/",
+      "icon": "linkedin"
+    },
+    {
+      "url": "https://github.com/lamichhanebibek",
+      "icon": "github"
+    }
+  ]
+}
