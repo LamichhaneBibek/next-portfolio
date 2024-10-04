@@ -56,10 +56,10 @@ export default function Hero() {
                         onClick={() => window.open("https://www.linkedin.com/in/lamichhanebibek/", "_blank")} >
                         {content.buttons.secondary.title}
                     </button>
-                    <button className={`button ${button.github} leaveSite`}
+                    {/* <button className={`button ${button.github} leaveSite`}
                         onClick={() => window.open("https://github.com/LamichhaneBibek", "_blank")} >
                         {content.buttons.github.title}
-                    </button>
+                    </button> */}
                 </section>
             </Container>
             <HeroBg theme="bg-color-1" />
