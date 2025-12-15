@@ -15,7 +15,6 @@
       <img alt="License" src="https://img.shields.io/github/license/LamichhaneBibek/next-portfolio?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
     </a>  
 </p>
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
